@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        ECIS 2017 - Similarity Workshop
+tagline:      A workshop that helps you discover the treasure in your data
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Mahmood Shafeie Zargar
+  url:        http://retrography.github.io/similarity-workshop
 
 # Gems
 gems:
