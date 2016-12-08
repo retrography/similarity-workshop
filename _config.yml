@@ -10,8 +10,9 @@ author:
   url:        http://retrography.github.io/similarity-workshop
 
 # Gems
-#gems:
-#  - jekyll-paginate
+gems:
+  - jekyll-paginate
 
 #Others
 markdown: kramdown
+highlighter: pygments
