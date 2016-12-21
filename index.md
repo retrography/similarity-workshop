@@ -19,19 +19,35 @@ Organizers
 ==========
 
 Mahmood Shafeie Zargar (Coordinator)
+
 Assistant Professor
+
 Vrije Universiteit Amsterdam
+
 Netherlands
+
 m.shafeiezargar@vu.nl
 
+
+
 Harris Kyriakou
+
 Assistant Professor
+
 IESE Business School
+
 Spain
+
 hkyriakou@iese.edu
 
+
+
 Yegin Genc
+
 Assistant Professor
+
 Pace University
+
 USA
+
 ygenc@pace.edu
