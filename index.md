@@ -11,6 +11,27 @@ The increasing availability of digital trace data and recent advances on both me
 
 This workshop focuses on similarity detection methods. An interactive workshop will be held where the participants will have the chance to use similarity detection methods on precollected data. The workshop will include presentations and interactive sessions focusing on the following methods:
 
-- Fuzzy hashing for text similarity detection (Mahmood Zargar).
+- Fuzzy hashing for text similarity detection (Mahmood Shafeie Zargar).
 - Spherical harmonic representation of 3D shapes for product design comparison (Harris Kyriakou).
 - Semantic transformations with ontology extraction using Wikipedia (Yegin Genc).
+
+Organizers 
+==========
+
+Mahmood Shafeie Zargar (Coordinator)
+Assistant Professor
+Vrije Universiteit Amsterdam
+Netherlands
+m.shafeiezargar@vu.nl
+
+Harris Kyriakou
+Assistant Professor
+IESE Business School
+Spain
+hkyriakou@iese.edu
+
+Yegin Genc
+Assistant Professor
+Pace University
+USA
+ygenc@pace.edu
