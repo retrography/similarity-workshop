@@ -22,17 +22,17 @@ Mahmood Shafeie Zargar (Coordinator)
 Assistant Professor  
 Vrije Universiteit Amsterdam  
 Netherlands  
-Email: <m.shafeiezargar@vu.nl>  
+<m.shafeiezargar@vu.nl>  
 
 Harris Kyriakou  
 Assistant Professor  
 IESE Business School  
 Spain  
-Email: <hkyriakou@iese.edu>  
+<hkyriakou@iese.edu>  
 
 Yegin Genc  
 Assistant Professor  
 Pace University  
 USA  
-Email: <ygenc@pace.edu>  
+<ygenc@pace.edu>  
 
