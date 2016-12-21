@@ -18,20 +18,20 @@ This workshop focuses on similarity detection methods. An interactive workshop w
 Organizers 
 ==========
 
-Mahmood Shafeie Zargar (Coordinator)
-Assistant Professor
-Vrije Universiteit Amsterdam
-Netherlands
-m.shafeiezargar@vu.nl
+Mahmood Shafeie Zargar (Coordinator)  
+Assistant Professor  
+Vrije Universiteit Amsterdam  
+Netherlands  
+m.shafeiezargar@vu.nl  
 
-Harris Kyriakou
-Assistant Professor
-IESE Business School
-Spain
-hkyriakou@iese.edu
+Harris Kyriakou  
+Assistant Professor  
+IESE Business School  
+Spain  
+hkyriakou@iese.edu  
 
-Yegin Genc
-Assistant Professor
-Pace University
-USA
-ygenc@pace.edu
+Yegin Genc  
+Assistant Professor  
+Pace University  
+USA  
+ygenc@pace.edu  
