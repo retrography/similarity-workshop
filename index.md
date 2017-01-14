@@ -53,10 +53,10 @@ There is no requirement for workshop participation, although some programming ba
 
 Workshop Day: June 6th 2017 (Half Day Workshop)
 
-08:30-09:00
-Registration & Coffee
-09:00-09:15
-Introduction & Overview of the Workshop
+| 08:30-09:00 | Registration & Coffee |
+| 09:00-09:15 | Introduction & Overview of the Workshop |
+
+
 09:15-09:45
 Showcase 1: Similarity hashing on programming code
 09:45-10:15
