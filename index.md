@@ -23,11 +23,13 @@ This workshop focuses on similarity detection methods. An interactive workshop w
 
 ## Locality-sensitive hashing
 
-Locality-sensitive hashing techniques are used to compare distinctly different items and quantifying their degree of similarity in form of a similarity score or percentage. Unlike cryptographic hashes that are designed to identify exact duplicates of items, locality-sensitive hashes are capable of identify partial matches between items. Locality-sensitive hashes are in widespread use for malware and spam detection, plagiarism detection, audio and video fingerprinting, as well as copyright enforcement. 
+Locality-sensitive hashing techniques are used to compare distinctly different items and quantifying their degree of similarity in form of a similarity score or percentage. Unlike cryptographic hashes that are designed to identify exact duplicates of items, locality-sensitive hashes are capable of identify partial matches between items. Locality-sensitive hashes are in widespread use for malware and spam detection, plagiarism detection, audio and video fingerprinting, as well as copyright enforcement. <sup>[1](#trigdell)</sup>
 
 Among the different families of locality-sensitive hashes, in this workshop we focus on fuzzy hashing, or context triggered piecewise hashing (CPTH), originally used for detecting emails with similar content ([Trigdell, 1999](https://www.samba.org/~tridge/phd_thesis.pdf); [Kornblum, 2006](http://www.sciencedirect.com/science/article/pii/S1742287606000764)). 
 
 Given that fuzzy hashes can detect similarities between texts, they are an ideal tool for tracking down the diffusion and evolution of discourse in social media. 
+
+<a name="trigdell">1</a>: [Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.](https://www.samba.org/~tridge/phd_thesis.pdf)
 
 ## Rotation & Scale Invariant Spherical Harmonic Representation
 
