@@ -51,7 +51,7 @@ There is no requirement for workshop participation, although some programming ba
 
 # Program
 
-Workshop Date: June 6th 2017 (Half Day Workshop)
+Workshop Date: June 6th 2017 (Half-day Workshop)
 
 | 08:30-09:00 | Registration & Coffee |
 | 09:00-09:15 | Introduction & Overview of the Workshop |
