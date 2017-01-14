@@ -23,29 +23,34 @@ This workshop focuses on similarity detection methods. An interactive workshop w
 
 ## Locality-sensitive hashing
 
-Locality-sensitive hashing techniques are used to compare distinctly different items and quantifying their degree of similarity in form of a similarity score or percentage. Unlike cryptographic hashes that are designed to identify exact duplicates of items, locality-sensitive hashes are capable of identify partial matches between items. Locality-sensitive hashes are in widespread use for malware and spam detection, plagiarism detection, audio and video fingerprinting, as well as copyright enforcement. <sup>[1](#trigdell)</sup>
+Locality-sensitive hashing techniques are used to compare distinctly different items and quantifying their degree of similarity in form of a similarity score or percentage. Unlike cryptographic hashes that are designed to identify exact duplicates of items, locality-sensitive hashes are capable of identify partial matches between items. Locality-sensitive hashes are in widespread use for malware and spam detection, plagiarism detection, audio and video fingerprinting, as well as copyright enforcement. 
 
-Among the different families of locality-sensitive hashes, in this workshop we focus on fuzzy hashing, or context triggered piecewise hashing (CPTH), originally used for detecting emails with similar content ([Trigdell, 1999](https://www.samba.org/~tridge/phd_thesis.pdf); [Kornblum, 2006](http://www.sciencedirect.com/science/article/pii/S1742287606000764)). 
+Among the different families of locality-sensitive hashes, in this workshop we focus on fuzzy hashing, or context triggered piecewise hashing (CPTH), originally used for detecting emails with similar content.<sup>[1](#trigdell),[2](#kornblum)</sup>
 
 Given that fuzzy hashes can detect similarities between texts, they are an ideal tool for tracking down the diffusion and evolution of discourse in social media. 
 
-<a name="trigdell">1</a>: [Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.](https://www.samba.org/~tridge/phd_thesis.pdf)
+<a name="trigdell"><sup>[1]</sup></a> [Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.](https://www.samba.org/~tridge/phd_thesis.pdf)
+<a name="kornblum"><sup>[2]</sup></a> [Kornblum, J. (2006). Identifying almost identical files using context triggered piecewise hashing. *Digital Investigation*, *3*(Supplement), 91–97.](http://www.sciencedirect.com/science/article/pii/S1742287606000764)
 
 ## Rotation & Scale Invariant Spherical Harmonic Representation
 
-A rotation invariant spherical harmonic representation method to measure the similarity between product designs will be presented. The method is based upon a variation of a computer graphics method for calculating the shape distance between 3D shapes ([Kazhdan et al., 2003](https://www.cs.princeton.edu/~funk/sgp03.pdf)). The algorithm represents each 3D design based on spherical harmonics, in order to obtain rotation and scale invariant characterizations that can be used to calculate distances that represent changes in shape rather than changes in perspective. 
+A rotation invariant spherical harmonic representation method to measure the similarity between product designs will be presented. The method is based upon a variation of a computer graphics method for calculating the shape distance between 3D shapes.<sup>[3](#kazhdan)</sup> The algorithm represents each 3D design based on spherical harmonics, in order to obtain rotation and scale invariant characterizations that can be used to calculate distances that represent changes in shape rather than changes in perspective. 
 
 One way to conceptually understand the technique is to imagine hollow 3D objects, and consider filling these objects with some number of tennis balls, ping pong balls, and ball bearings. Objects that are similar will need a similar proportion of balls of different sizes to fill them up.
 
 The workshop will showcase the use of a 3D shape comparison method as well as touch upon the similarity measures based upon the semantic description of designs. Such methods can provide insights about the similarities of products when data from other methods (e.g. text, network structure) are not available, or complement our insights from text and network based methods.
 
+<a name="kazhdan"><sup>[3]</sup></a> [Kazhdan, M., Funkhouser, T., & Rusinkiewicz, S. (2003). Rotation invariant spherical harmonic representation of 3 d shape descriptors. In *Symposium on geometry processing*, *6*, 156–164.](https://www.cs.princeton.edu/~funk/sgp03.pdf)
+
 ## Ontology Extraction
 
 In order to effectively measure the semantic similarity of documents, we need to take into account the context.  Ontologies can be used to model concepts and their relationships. In this sense, ontologies can be used to represent relevant aspects of context.  However it is not a trivial task to detect whether a word, or a part-of-text, in a document is a concept. 
 
-The Ontology Extract method aims to detect the concepts covered in a document by using Wikipedia as the external knowledge domain. Wikipedia’s human readable labels to the concepts help semantic analysis in the Information Retrieval Tasks ([Gabrilovich, 2009](http://www.jair.org/media/2669/live-2669-4346-jair.pdf)). 
+The Ontology Extract method aims to detect the concepts covered in a document by using Wikipedia as the external knowledge domain. Wikipedia’s human readable labels to the concepts help semantic analysis in the Information Retrieval Tasks.<sup>[4](#gabrilovich)</sup>
 
 Wikipedia based ontologies can be specially useful when analyzing short and elliptic text. For example, when classifying tweets into their topics,  ontologies extracted from Wikipedia can be more helpful in identifying the text similarity than other statistical methods that rely on word frequencies. 
+
+<a name="gabrilovich"><sup>[4]</sup></a> [Gabrilovich, Evgeniy, and Shaul Markovitch. (2009) Wikipedia-based semantic interpretation for natural language processing. *Journal of Artificial Intelligence Research*, *34*, 443-498.](http://www.jair.org/media/2669/live-2669-4346-jair.pdf)
 
 # Requirements
 
@@ -86,7 +91,6 @@ USA
 
 # References
 
-- Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.
-- Kornblum, J. (2006). Identifying almost identical files using context triggered piecewise hashing. *Digital Investigation*, *3*(Supplement), 91–97.
-- Kazhdan, M., Funkhouser, T., & Rusinkiewicz, S. (2003). Rotation invariant spherical harmonic representation of 3 d shape descriptors. In *Symposium on geometry processing*, *6*, 156–164.
-- Gabrilovich, Evgeniy, and Shaul Markovitch. (2009) Wikipedia-based semantic interpretation for natural language processing. *Journal of Artificial Intelligence Research*, *34*, 443-498.
+
+- 
+- 
