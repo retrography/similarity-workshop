@@ -79,21 +79,21 @@ Q&A, Concluding Remarks, Feedback and Informal Discussion
 
 # Organizers
 
-Mahmood Shafeie Zargar (Coordinator) 
-Assistant Professor 
-Vrije Universiteit Amsterdam 
-Netherlands 
-[Website](http://www.kinresearch.nl/person/mahmood-zargar/) | [Email](mailto:m.shafeiezargar@vu.nl)
+Mahmood Shafeie Zargar (Coordinator)  
+Assistant Professor  
+Vrije Universiteit Amsterdam  
+Netherlands  
+[Website](http://www.kinresearch.nl/person/mahmood-zargar/) | [Email](mailto:m.shafeiezargar@vu.nl)  
 
-Harris Kyriakou 
-Assistant Professor 
-IESE Business School 
-Spain 
-[Website](http://www.iese.edu/en/faculty-research/professors/faculty-directory/harris-kyriakou/) | [Email](mailto:hkyriakou@iese.edu)
+Harris Kyriakou  
+Assistant Professor  
+IESE Business School  
+Spain  
+[Website](http://www.iese.edu/en/faculty-research/professors/faculty-directory/harris-kyriakou/) | [Email](mailto:hkyriakou@iese.edu)  
 
-Yegin Genc 
-Assistant Professor 
-Pace University 
-USA 
-[Website](http://www.pace.edu/seidenberg/sections/meet-the-faculty/faculty-profile?username=ygenc) | [Email](mailto:ygenc@pace.edu)
+Yegin Genc  
+Assistant Professor  
+Pace University  
+USA  
+[Website](http://www.pace.edu/seidenberg/sections/meet-the-faculty/faculty-profile?username=ygenc) | [Email](mailto:ygenc@pace.edu)  
 
