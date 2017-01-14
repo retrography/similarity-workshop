@@ -29,8 +29,8 @@ Among the different families of locality-sensitive hashes, in this workshop we f
 
 Given that fuzzy hashes can detect similarities between texts, they are an ideal tool for tracking down the diffusion and evolution of discourse in social media. 
 
-<a name="trigdell"><sup>[1]</sup></a> [Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.](https://www.samba.org/~tridge/phd_thesis.pdf)
-<a name="kornblum"><sup>[2]</sup></a> [Kornblum, J. (2006). Identifying almost identical files using context triggered piecewise hashing. *Digital Investigation*, *3*(Supplement), 91–97.](http://www.sciencedirect.com/science/article/pii/S1742287606000764)
+<a name="trigdell"><sup>1</sup></a> [Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.](https://www.samba.org/~tridge/phd_thesis.pdf)
+<a name="kornblum"><sup>2</sup></a> [Kornblum, J. (2006). Identifying almost identical files using context triggered piecewise hashing. *Digital Investigation*, *3*(Supplement), 91–97.](http://www.sciencedirect.com/science/article/pii/S1742287606000764)
 
 ## Rotation & Scale Invariant Spherical Harmonic Representation
 
@@ -40,7 +40,7 @@ One way to conceptually understand the technique is to imagine hollow 3D objects
 
 The workshop will showcase the use of a 3D shape comparison method as well as touch upon the similarity measures based upon the semantic description of designs. Such methods can provide insights about the similarities of products when data from other methods (e.g. text, network structure) are not available, or complement our insights from text and network based methods.
 
-<a name="kazhdan"><sup>[3]</sup></a> [Kazhdan, M., Funkhouser, T., & Rusinkiewicz, S. (2003). Rotation invariant spherical harmonic representation of 3 d shape descriptors. In *Symposium on geometry processing*, *6*, 156–164.](https://www.cs.princeton.edu/~funk/sgp03.pdf)
+<a name="kazhdan"><sup>3</sup></a> [Kazhdan, M., Funkhouser, T., & Rusinkiewicz, S. (2003). Rotation invariant spherical harmonic representation of 3 d shape descriptors. In *Symposium on geometry processing*, *6*, 156–164.](https://www.cs.princeton.edu/~funk/sgp03.pdf)
 
 ## Ontology Extraction
 
@@ -50,7 +50,7 @@ The Ontology Extract method aims to detect the concepts covered in a document by
 
 Wikipedia based ontologies can be specially useful when analyzing short and elliptic text. For example, when classifying tweets into their topics,  ontologies extracted from Wikipedia can be more helpful in identifying the text similarity than other statistical methods that rely on word frequencies. 
 
-<a name="gabrilovich"><sup>[4]</sup></a> [Gabrilovich, Evgeniy, and Shaul Markovitch. (2009) Wikipedia-based semantic interpretation for natural language processing. *Journal of Artificial Intelligence Research*, *34*, 443-498.](http://www.jair.org/media/2669/live-2669-4346-jair.pdf)
+<a name="gabrilovich"><sup>4</sup></a> [Gabrilovich, Evgeniy, and Shaul Markovitch. (2009) Wikipedia-based semantic interpretation for natural language processing. *Journal of Artificial Intelligence Research*, *34*, 443-498.](http://www.jair.org/media/2669/live-2669-4346-jair.pdf)
 
 # Requirements
 
@@ -89,8 +89,3 @@ Pace University
 USA  
 [Website](http://www.pace.edu/seidenberg/sections/meet-the-faculty/faculty-profile?username=ygenc) | [Email](mailto:ygenc@pace.edu)  
 
-# References
-
-
-- 
-- 
