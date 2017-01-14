@@ -70,6 +70,14 @@ Workshop Date: June 6th 2017 (Half-day Workshop)
 | 11:10-12:10 | Hands-on Break-out Sessions |
 | 12:10-12:30 | Q&A, Concluding Remarks, Feedback and Informal Discussion |
 
+# Participation
+
+blah blah form
+
+# Resources
+
+TBA 
+
 # Organizers
 
 Mahmood Shafeie Zargar (Coordinator)  
