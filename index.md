@@ -51,24 +51,16 @@ There is no requirement for workshop participation, although some programming ba
 
 # Program
 
-Workshop Day: June 6th 2017 (Half Day Workshop)
+Workshop Date: June 6th 2017 (Half Day Workshop)
 
 | 08:30-09:00 | Registration & Coffee |
 | 09:00-09:15 | Introduction & Overview of the Workshop |
-
-
-09:15-09:45
-Showcase 1: Similarity hashing on programming code
-09:45-10:15
-Showcase 2: Shape comparison on representations of 3D printed product designs
-10:15-10:45
-Showcase 3: Ontology extraction using Wikipedia
-10:45-11:10
-Break
-11:10-12:10
-Hands-on Break-out Sessions
-12:10-12:30
-Q&A, Concluding Remarks, Feedback and Informal Discussion
+| 09:15-09:45 | Showcase 1: Similarity hashing on programming code |
+| 09:45-10:15 | Showcase 2: Shape comparison on representations of 3D printed product designs |
+| 10:15-10:45 | Showcase 3: Ontology extraction using Wikipedia |
+| 10:45-11:10 | Break |
+| 11:10-12:10 | Hands-on Break-out Sessions |
+| 12:10-12:30 | Q&A, Concluding Remarks, Feedback and Informal Discussion |
 
 # Organizers
 
