@@ -49,7 +49,7 @@ Wikipedia based ontologies can be specially useful when analyzing short and elli
 
 There is no requirement for workshop participation, although some programming background (Python) is necessary for active learning during the hands-on session. The participants are required to bring their own personal computers for the hands-on session. It is also the participants’ responsibility to install the required set of free software tools and libraries (TBA) prior to the workshop. 
 
-## Program
+# Program
 
 Workshop Day: June 6th 2017 (Half Day Workshop)
 
@@ -69,13 +69,6 @@ Break
 Hands-on Break-out Sessions
 12:10-12:30
 Q&A, Concluding Remarks, Feedback and Informal Discussion
-
-## References
-
-- Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.
-- Kornblum, J. (2006). Identifying almost identical files using context triggered piecewise hashing. *Digital Investigation*, *3*(Supplement), 91–97.
-- Kazhdan, M., Funkhouser, T., & Rusinkiewicz, S. (2003). Rotation invariant spherical harmonic representation of 3 d shape descriptors. In *Symposium on geometry processing*, *6*, 156–164.
-- Gabrilovich, Evgeniy, and Shaul Markovitch. (2009) Wikipedia-based semantic interpretation for natural language processing. *Journal of Artificial Intelligence Research*, *34*, 443-498.
 
 # Organizers
 
@@ -97,3 +90,9 @@ Pace University
 USA  
 [Website](http://www.pace.edu/seidenberg/sections/meet-the-faculty/faculty-profile?username=ygenc) | [Email](mailto:ygenc@pace.edu)  
 
+# References
+
+- Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.
+- Kornblum, J. (2006). Identifying almost identical files using context triggered piecewise hashing. *Digital Investigation*, *3*(Supplement), 91–97.
+- Kazhdan, M., Funkhouser, T., & Rusinkiewicz, S. (2003). Rotation invariant spherical harmonic representation of 3 d shape descriptors. In *Symposium on geometry processing*, *6*, 156–164.
+- Gabrilovich, Evgeniy, and Shaul Markovitch. (2009) Wikipedia-based semantic interpretation for natural language processing. *Journal of Artificial Intelligence Research*, *34*, 443-498.
