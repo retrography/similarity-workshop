@@ -31,7 +31,7 @@ Given that fuzzy hashes can detect similarities between texts, they are an ideal
 
 ## Rotation & Scale Invariant Spherical Harmonic Representation
 
-A rotation invariant spherical harmonic representation method to measure the similarity between product designs will be presented. The method is based upon a variation of a computer graphics method for calculating the shape distance between 3D shapes ([Kazhdan et al.](https://www.cs.princeton.edu/~funk/sgp03.pdf)[,](https://www.cs.princeton.edu/~funk/sgp03.pdf) [2003](https://www.cs.princeton.edu/~funk/sgp03.pdf)). The algorithm represents each 3D design based on spherical harmonics, in order to obtain rotation and scale invariant characterizations that can be used to calculate distances that represent changes in shape rather than changes in perspective. 
+A rotation invariant spherical harmonic representation method to measure the similarity between product designs will be presented. The method is based upon a variation of a computer graphics method for calculating the shape distance between 3D shapes ([Kazhdan et al., 2003](https://www.cs.princeton.edu/~funk/sgp03.pdf)). The algorithm represents each 3D design based on spherical harmonics, in order to obtain rotation and scale invariant characterizations that can be used to calculate distances that represent changes in shape rather than changes in perspective. 
 
 One way to conceptually understand the technique is to imagine hollow 3D objects, and consider filling these objects with some number of tennis balls, ping pong balls, and ball bearings. Objects that are similar will need a similar proportion of balls of different sizes to fill them up.
 
@@ -74,8 +74,8 @@ Q&A, Concluding Remarks, Feedback and Informal Discussion
 
 - Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.
 - Kornblum, J. (2006). Identifying almost identical files using context triggered piecewise hashing. *Digital Investigation*, *3*(Supplement), 91–97.
-- Kazhdan, M., Funkhouser, T., & Rusinkiewicz, S. (2003). Rotation invariant spherical harmonic representation of 3 d shape descriptors. In *Symposium on geometry processing* (Vol. 6, pp. 156–164).
-- Gabrilovich, Evgeniy, and Shaul Markovitch. "Wikipedia-based semantic interpretation for natural language processing." *Journal of Artificial Intelligence Research* 34 (2009): 443-498
+- Kazhdan, M., Funkhouser, T., & Rusinkiewicz, S. (2003). Rotation invariant spherical harmonic representation of 3 d shape descriptors. In *Symposium on geometry processing*, *6*, 156–164.
+- Gabrilovich, Evgeniy, and Shaul Markovitch. (2009) Wikipedia-based semantic interpretation for natural language processing. *Journal of Artificial Intelligence Research*, *34*, 443-498.
 
 # Organizers
 
