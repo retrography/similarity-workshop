@@ -76,7 +76,7 @@ If you would like to participate in the workshop, please [submit a participation
 
 # Resources
 
-TBA 
+___TBA___
 
 # Organizers
 
