@@ -47,7 +47,7 @@ Wikipedia based ontologies can be specially useful when analyzing short and elli
 
 # Requirements
 
-There is no requirement for workshop participation, although some programming background (Python) is necessary for active learning during the hands-on session. The participants are required to bring their own personal computers for the hands-on session. It is also the participants’ responsibility to install the required set of free software tools and libraries(TBA) prior to the workshop. 
+There is no requirement for workshop participation, although some programming background (Python) is necessary for active learning during the hands-on session. The participants are required to bring their own personal computers for the hands-on session. It is also the participants’ responsibility to install the required set of free software tools and libraries (TBA) prior to the workshop. 
 
 ## Program
 
