@@ -3,7 +3,7 @@ layout: default
 title: {{ site.name }}
 ---
 
-# Description 
+# Overview 
 
 The increasing availability of digital trace data and recent advances on both methods and tools to analyze data in unprecedented scale open up new venues for information systems research. These trends permit the implementation of novel analysis methods and create new opportunities for theorization. 
 
@@ -53,10 +53,6 @@ Wikipedia based ontologies can be specially useful when analyzing short and elli
 
 <a name="gabrilovich"><sup>4</sup></a> [Gabrilovich, Evgeniy, and Shaul Markovitch. (2009) Wikipedia-based semantic interpretation for natural language processing. *Journal of Artificial Intelligence Research*, *34*, 443-498.](http://www.jair.org/media/2669/live-2669-4346-jair.pdf)
 
-# Requirements
-
-There is no requirement for workshop participation, although some programming background (Python) is necessary for active learning during the hands-on session. The participants are required to bring their own personal computers for the hands-on session. It is also the participants’ responsibility to install the required set of free software tools and libraries (TBA) prior to the workshop. 
-
 # Program
 
 Workshop Date: June 6th 2017 (Half-day Workshop)
@@ -73,6 +69,10 @@ Workshop Date: June 6th 2017 (Half-day Workshop)
 # Participation
 
 If you would like to participate in the workshop, please [submit a participation request](https://docs.google.com/forms/d/e/1FAIpQLSd7U3oQa8iCh-j5qJWF-LEehlUIfZXlvqgFRE6xHusv8wHbtQ/viewform). You will receive a confirmation within a few hours.
+
+## Requirements
+
+There is no requirement for workshop participation, although some programming background (Python) is necessary for active learning during the hands-on session. The participants have to bring their own personal computers for the hands-on session. It is also the participants’ responsibility to install the required set of free software tools and libraries mentioned under the resources section prior to the workshop. 
 
 # Resources
 
