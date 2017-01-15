@@ -29,7 +29,7 @@ Among the different families of locality-sensitive hashes, in this workshop we f
 
 Given that fuzzy hashes can detect similarities between texts, they are an ideal tool for tracking down the diffusion and evolution of discourse in social media. 
 
-<a name="trigdell"><sup>1</sup></a> [Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD). The Australian National University, Canberra, Australia.](https://www.samba.org/~tridge/phd_thesis.pdf)
+<a name="trigdell"><sup>1</sup></a> [Tridgell, A. (1999). *Efficient algorithms for sorting and synchronization* (PhD Thesis). The Australian National University, Canberra, Australia.](https://www.samba.org/~tridge/phd_thesis.pdf)
 
 <a name="kornblum"><sup>2</sup></a> [Kornblum, J. (2006). Identifying almost identical files using context triggered piecewise hashing. *Digital Investigation*, *3*(Supplement), 91–97.](http://www.sciencedirect.com/science/article/pii/S1742287606000764)
 
