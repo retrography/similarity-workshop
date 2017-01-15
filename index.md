@@ -68,7 +68,7 @@ Workshop Date: June 6th 2017 (Half-day Workshop)
 
 # Participation
 
-If you would like to participate in the workshop, please [submit a participation request](https://docs.google.com/forms/d/e/1FAIpQLSd7U3oQa8iCh-j5qJWF-LEehlUIfZXlvqgFRE6xHusv8wHbtQ/viewform). You will receive a confirmation within a few hours.
+If you would like to participate in the workshop, please [submit a participation request](https://docs.google.com/forms/d/e/1FAIpQLSd7U3oQa8iCh-j5qJWF-LEehlUIfZXlvqgFRE6xHusv8wHbtQ/viewform). You will receive a confirmation within a few hours. You will also need to sign up for the workshop as a part of your ECIS registration and pay any eventual associated cost requested by the conference organizers. 
 
 ## Requirements
 
