@@ -57,18 +57,17 @@ Wikipedia based ontologies can be specially useful when analyzing short and elli
 
 Workshop Date: June 6th 2017 (Half-day Workshop)
 
-| 08:30-09:00 | Registration & Coffee |
 | 09:00-09:15 | Introduction & Overview of the Workshop |
-| 09:15-09:45 | Showcase 1: Similarity hashing on programming code |
-| 09:45-10:15 | Showcase 2: Shape comparison on representations of 3D printed product designs |
-| 10:15-10:45 | Showcase 3: Ontology extraction using Wikipedia |
-| 10:45-11:10 | Break |
-| 11:10-12:10 | Hands-on Break-out Sessions |
-| 12:10-12:30 | Q&A, Concluding Remarks, Feedback and Informal Discussion |
+| 09:15-09:40 | Showcase 1: Similarity hashing on programming code |
+| 09:40-10:05 | Showcase 2: Shape comparison on representations of 3D printed product designs |
+| 10:05-10:30 | Showcase 3: Ontology extraction using Wikipedia |
+| 10:30-11:00 | Coffee Break |
+| 11:00-12:00 | Hands-on Break-out Sessions |
+| 12:00-12:30 | Q&A, Concluding Remarks, Feedback and Informal Discussion |
 
 # Participation
 
-If you would like to participate in the workshop, please [submit a participation request](https://docs.google.com/forms/d/e/1FAIpQLSd7U3oQa8iCh-j5qJWF-LEehlUIfZXlvqgFRE6xHusv8wHbtQ/viewform). You will receive a confirmation within a few hours. You will also need to sign up for the workshop as a part of your ECIS registration and pay any eventual associated cost requested by the conference organizers. 
+You will need to sign up for the workshop as a part of your ECIS registration and pay any eventual associated cost requested by the conference organizers. Please [submit a participation request](https://docs.google.com/forms/d/e/1FAIpQLSd7U3oQa8iCh-j5qJWF-LEehlUIfZXlvqgFRE6xHusv8wHbtQ/viewform) as well, so that we can keep track of the participants on our side.
 
 ## Requirements
 
